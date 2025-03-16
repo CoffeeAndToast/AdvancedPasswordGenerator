@@ -94,7 +94,9 @@ A Python-based password generator with a sleek greyscale GUI, powered by Tkinter
     ***Random Password:*** Kj#9mPx$2vLq& (17 chars, 3 symbols, ~95 bits, High threat).
     ***Passphrase:*** Apple#Dog$Kite-Bird-Rain-Cloud (6 words, 2 symbols, ~25 bits with 20-word list, scales with larger lists).
     ***Feedback (High Threat):*** "Urgent: 2 password leaks today (5,000,000 accounts). Use long, complex passwords. Suggestions: Add 5 chars to reach 17. Add 1 more symbol."
+    
 ![Screenshot](https://dl.imgdrop.io/file/aed8b140-8472-4813-922b-7ce35ef93c9e/2025/03/16/apg_shotbe64a846aa67df08.png)
+
 ## How It Works
 # Password Generation
 
