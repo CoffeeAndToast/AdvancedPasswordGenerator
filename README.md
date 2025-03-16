@@ -63,7 +63,7 @@ A Python-based password generator with a sleek greyscale GUI, powered by Tkinter
 # Verify Files
 
     Ensure password_generator.py and wordlist.txt are in the directory.
-    wordlist.txt includes a 20-word sample; replace it with a larger list (e.g., EFF Wordlist) for stronger passphrases.
+    wordlist.txt includes a 40k+ word sample; you can eplace it with another word list (e.g., EFF Wordlist) for stronger(or weaker) passphrases.
 
 	***Run the Program:***
 
